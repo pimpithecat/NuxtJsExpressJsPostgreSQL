@@ -1,6 +1,6 @@
 # FrontBack Project
 
-Full-stack application with Nuxt (frontend), Express (backend), and PostgreSQL (Neon database).
+Full-stack application with Nuxt (frontend), Express (backend), and PostgreSQL.
 
 ## Architecture
 
